@@ -5,7 +5,7 @@
 
 ## Connect with me
 
-[![Instagram Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/phranka_dev)](https://instagram.com/phranka_de)
+[![Instagram Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/phranka_dev)](https://instagram.com/phranka_dev)
 [![Twitter Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/phranka_dev)](https://twitter.com/phranka_dev)
 [![Linkedin Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/phrankadev)](https://linkedin.com/in/phrankadev)
 
