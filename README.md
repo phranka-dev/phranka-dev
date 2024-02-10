@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hola👋🏿
 
-<!--
-**phranka-dev/phranka-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **<chinwenduokoye92@gmail.com>**
+- ❤️ There is nothing I love to do better than `coding` 🌱
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/phranka_dev)](https://instagram.com/phranka_de)
+[![Twitter Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/phranka_dev)](https://twitter.com/phranka_dev)
+[![Linkedin Badge](https://img.shields.io/badge/-phranka-%09%23483D8B?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/phrankadev)](https://linkedin.com/in/phrankadev)
+
+## Github Cards
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=phranka-dev&show_icons=true&locale=en) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=phranka-dev&show_icons=true&locale=en&layout=compact) |
+| ------------- | ------------- |
